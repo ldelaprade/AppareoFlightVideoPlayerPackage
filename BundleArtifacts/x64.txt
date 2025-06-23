@@ -1,0 +1,2 @@
+MainPackage=C:\SRC\WPF\AppareoFlightVideoPlayerPackage\bin\x64\Release\AppareoFlightVideoPlayerPackage_1.0.1.0_x64.msix
+SymbolPackage=C:\SRC\WPF\AppareoFlightVideoPlayerPackage\obj\x64\Release\Symbols\AppareoFlightVideoPlayerPackage_1.0.1.0_x64.appxsym
