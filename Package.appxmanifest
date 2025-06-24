@@ -10,7 +10,7 @@
   <Identity
     Name="cd436af7-e945-4f19-9777-30a407c6c1b8"
     Publisher="CN=LAURENT"
-    Version="1.0.1.0" />
+    Version="1.0.3.0" />
 
   <Properties>
     <DisplayName>AppareoFlightVideoPlayerPackage</DisplayName>
